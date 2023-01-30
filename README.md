@@ -1,0 +1,5 @@
+# ECON-1580-01-Introduction-to-Economics---AY2023-T3
+
+UoPeople courses use open educational resources (OER) and other materials specifically donated to the University with free permissions for educational use. Therefore, students are not required to purchase any textbooks or sign up for any websites that have a cost associated with them. The main required textbooks for this course are listed below, and can be readily accessed using the provided links. There may be additional required/recommended readings, supplemental materials, or other resources and websites necessary for lessons; these will be provided for you in the course's General Information and Forums area, and throughout the term via the weekly course Unit areas and the Learning Guides.
+
+Rittenberg, L. & Tregarthen, T. (2009). Principles of Economics. Flat World Knowledge. Each chapter of this textbook, as required reading, is available for download using the links below, and also in the weekly Learning Guides under the Reading Assignment areas.
